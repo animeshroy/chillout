@@ -1,2 +1,2 @@
 # chillout
-A platform to allow individuals to create events post of interest to enjoy moments with other sapiens.
+A platform that allows individuals to create events post of their interest and focus on enjoying moments with other sapiens.
